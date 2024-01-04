@@ -34,8 +34,7 @@ This web application empowers users to create robust and memorable passwords, em
 ## Usage
 
 1. Adjust password length and character inclusion preferences using the provided controls.
-2. Click the "Generate Password" button to create a new password.
-3. Click the "Copy Password" button to copy the generated password to your clipboard.
+2. Click the "Copy Password" button to copy the generated password to your clipboard.
 
 ## Contributing
 
